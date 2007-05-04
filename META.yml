@@ -1,0 +1,15 @@
+author: Jesse Vincent <jesse@bestpractical.com>
+distribution_type: module
+generated_by: Module::Install version 0.64
+license: Perl
+name: Test-OpenID-Server
+no_index: 
+  directory: 
+    - inc
+    - t
+requires: 
+  HTTP::Server::Simple: 0
+  Net::OpenID::Server: 0
+  Test::HTTP::Server::Simple: 0
+  Test::OpenID::Consumer: 0
+version: 0.01
